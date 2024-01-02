@@ -13,6 +13,7 @@
 		02674B152B43543900B3DEF0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02674B132B43543900B3DEF0 /* Main.storyboard */; };
 		02674B172B43543A00B3DEF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02674B162B43543A00B3DEF0 /* Assets.xcassets */; };
 		02674B1A2B43543A00B3DEF0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02674B182B43543A00B3DEF0 /* LaunchScreen.storyboard */; };
+		02AA8F242B44AF480071390E /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02AA8F232B44AF480071390E /* Concentration.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		02674B162B43543A00B3DEF0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		02674B192B43543A00B3DEF0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		02674B1B2B43543A00B3DEF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		02AA8F232B44AF480071390E /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				02674B222B43547300B3DEF0 /* Supporting Files */,
 				02674B112B43543900B3DEF0 /* ViewController.swift */,
+				02AA8F232B44AF480071390E /* Concentration.swift */,
 				02674B132B43543900B3DEF0 /* Main.storyboard */,
 				02674B1B2B43543A00B3DEF0 /* Info.plist */,
 			);
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				02674B122B43543900B3DEF0 /* ViewController.swift in Sources */,
+				02AA8F242B44AF480071390E /* Concentration.swift in Sources */,
 				02674B0E2B43543900B3DEF0 /* AppDelegate.swift in Sources */,
 				02674B102B43543900B3DEF0 /* SceneDelegate.swift in Sources */,
 			);
