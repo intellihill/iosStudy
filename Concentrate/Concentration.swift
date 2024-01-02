@@ -13,7 +13,12 @@ import Foundation
  */
 class Concentration
 {
-    var cards: Array<Card>
+    // 구조체나 클래스의 인스턴스 만드는 법
+//    var cards: Array<Card>
+    var cards = Array<Card>()
     
+    func chooseCard(at index: Int) {
+        
+    }
     
 }
